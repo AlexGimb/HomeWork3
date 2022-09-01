@@ -70,7 +70,7 @@ public class Main {
         }
     }
     public static void task5(){
-        System.out.println();
+        System.out.println( );
         int one;
         int two;
         int free;
@@ -82,7 +82,7 @@ public class Main {
         }else if (two > one && two > free){
             System.out.printf("Больше число %d", two);
         }else
-            System.out.printf("Больше число %d", free);
+            System.out.printf("Больше число %d", free);;
     }
 }
 
